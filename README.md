@@ -15,6 +15,7 @@ My long-term goal is to apply my skills to build secure systems and work with da
 
 🚀 **Projects:**  
 - Built a **TCP Server in C** for handling real-time client connections
+- Built a **Command Line Interface employee-database in C** learning fundamentals of system programming in C
 
 **📫 How to reach me:**
 - [in/jaden-p/](https://www.linkedin.com/in/jaden-p/)
