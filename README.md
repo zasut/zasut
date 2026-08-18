@@ -14,7 +14,7 @@ Recently, I built scalable microservices and CI/CD pipelines as a Software Engin
 - **Binary File Relational Database (C):** Engineered a command-line database that serializes dynamic records into a custom binary file format. Executed low-level CRUD operations using dynamic memory allocation to safely process variable-length data, and architected the interface using the POSIX `getopt` library.
 - **Concurrent TCP Server (C):** Built a custom server architecture handling real-time, concurrent client connections through raw socket programming and POSIX threading. 
 - **Student Support Automation (Python):** Developed a custom automation application to streamline student-support workflows and data processing during my technical fellowship at Year Up United.
-- **Salary Prediction Model (Python):** Developed a simple linear regression machine learning model utilizing pandas and scikit-learn to analyze CSV datasets and predict compensation based on experience metrics.
+- **Salary Prediction Model (Python):** Developed a simple linear regression machine learning model utilizing pandas and statsmodels to analyze CSV datasets and predict compensation based on experience metrics.
 
 ### 📫 Let's Connect
 - **LinkedIn:** [in/jaden-p/](https://www.linkedin.com/in/jaden-p/)
