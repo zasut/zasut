@@ -1,25 +1,23 @@
-## 👋 Hello 👋
+## Hi, I'm Jaden 👋
 
-## 🐟 About Me 🐟
-I'm Jaden, an aspiring developer with a strong interest in cybersecurity and data analytics, with a Security+ Certificate. I also enjoy doing game development as a creative hobby.
+I am a backend software engineer and computer science student focused on bridging the gap between systems programming and high-performance enterprise infrastructure. 
 
-I'm passionate about expanding my knowledge — whether it’s through projects, new tools, or tackling complex challenges.  
-My long-term goal is to apply my skills to build secure systems and work with data-driven solutions, helping organizations make smarter, safer decisions. 
+Recently, I built scalable microservices and CI/CD pipelines as a Software Engineer Intern at Morgan Stanley (E*TRADE), and completed an intensive Data Engineering Fellowship through Year Up United. Whether I am writing enterprise logic in Go and Java, managing memory in C, or automating data pipelines in Python, I am passionate about building robust, secure, and data-driven systems.
 
+### 💻 Tech Stack
+- **Languages:** Go, C/C++, Java, Python, SQL
+- **Infrastructure & Cloud:** Docker, Kubernetes, AWS
+- **Security & Networking:** Wireshark, Splunk, Nessus, SIEM Platforms
+- **Interests:** Backend Engineering, Data Architecture, Cloud Infrastructure, Cybersecurity
 
-💻 **Tech Stack:**  
-- Programming: **Python | C/C++ | SQL**  
-- Security Tools: **Wireshark | Nessus | Splunk | SIEM platforms**  
-- Game Engines: **Unity | Unreal | Godot**
+### 🚀 Featured Projects
+- **Binary File Relational Database (C):** Engineered a command-line database that serializes dynamic records into a custom binary file format. Executed low-level CRUD operations using dynamic memory allocation to safely process variable-length data, and architected the interface using the POSIX `getopt` library.
+- **Concurrent TCP Server (C):** Built a custom server architecture handling real-time, concurrent client connections through raw socket programming and POSIX threading. 
+- **Student Support Automation (Python):** Developed a custom automation application to streamline student-support workflows and data processing during my technical fellowship at Year Up United.
+- **Salary Prediction Model (Python):** Developed a simple linear regression machine learning model utilizing pandas and scikit-learn to analyze CSV datasets and predict compensation based on experience metrics.
 
-
-🚀 **Projects:**  
-- Built a **TCP Server in C** for handling real-time client connections
-- Built a **Command Line Interface employee-database in C** learning fundamentals of system programming in C
-- Built a **Simple-linear-regression prediction model in python** to predict a users salary based off of their years of experience using a provided CSV file
-
-**📫 How to reach me:**
-- [in/jaden-p/](https://www.linkedin.com/in/jaden-p/)
+### 📫 Let's Connect
+- **LinkedIn:** [in/jaden-p/](https://www.linkedin.com/in/jaden-p/)
 
 
 <!--
